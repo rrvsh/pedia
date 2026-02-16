@@ -1,7 +1,7 @@
 # Your first website
 https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website
 
-- https://acorn.firefox.com/latest/home/acorn-aRSAh0Sp
+- Firefox design system: https://acorn.firefox.com/latest/home/acorn-aRSAh0Sp
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Color_format_converter
 - Web safe fonts: generally available across all systems
     - sans-serif: arial (or helvetica), trebuchet ms (not on mobile), verdana
@@ -36,3 +36,31 @@ https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Y
     - list can be unordered `<ul>` or ordered `<ol>`
     - links use the anchor element `<a>` with the href attribute containing the link to the web address
         - href stands for hypertext reference
+
+
+## 16 feb 26
+
+- idea for project: I went through the MDN web docs for two weeks and made a website!
+- go through and collate empty fields like "what does do do:" and "who do you come:"
+- only then ideate
+- then implement into site
+- <https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website>
+    - transliterating this into action items for the website
+    - filling out those action items with what i want for the site
+    - putting the content and HTML elements into the site
+
+- for the website:
+    - future ideas:
+        - the image shoudl be on a slideshow, showing the more SFW image first then switching to the rest of subsequent page visits
+    - action items:
+        - what does it do: look cool and make me look cool
+        - what is it about: me, a young aspiring hacker
+        - what information are you presenting?: information about me and my published works
+        - what color palette: #4F000B, #B48100, #2274A5 from coolors.co
+        - what font: courier new
+        - header element children are vertically stacked
+    - js learning points: 
+        - window.location.pathname to check route
+        - "incline-block" display for children, display: flex for parent,   justify-content: center; to get center aligned inline children
+
+- next up is <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core>

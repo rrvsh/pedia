@@ -1,0 +1,38 @@
+# A Dragon's Path, Daniel Abraham (2011)
+
+- Prologue:
+    - prologue follows an apostate chased by priests with ancient envenomed dragon forged blades, that kill both the victim and the wielder (eventually)
+        - the blades only came out in dire emergency or deadly anger
+        - "things that once had been men"
+    - stiff like a "corpse that hadnet had the grace to die"
+    - gifts of the spider goddess show somehting, not truth
+    - He is going west to the keshet
+    - 13 races of humanity caved on a high wall of stone, but only 7 mentioned:
+        - Cinnae, tralgu, southling, firstblood, timzinae, yemmu, drowned
+        - all used to be enslaved under dragons, "bound is not broken"
+    - circle of standing pillars with a small chamber, but sleeping there troubles you with violent and alien dreams
+    - yemmu: half as tall as apostate (firstblood), broad shoulders, tusk curve up from jaw until cheeks, gold-flecked eyes
+    - spider goddess gonna eat the world
+- Chapter 1: Captain Marcus Wester
+    - hes with Yardem the tralgu
+    - tralgu: dog folk
+    - timzinae: bug folk
+    - dartineae: glow eyes, hairless
+    - Cinnae: reed thin, snow pale
+    - Jasuru: bronze-scaled
+    - kurtadam: clicking beads in otter-smooth pelt
+    - the city of vanai with a public gaol that used to be dragon's menagerie of beasts like grypohns, harpies
+    - prince guard wear gilt armor, Tertian (prev. Sergeant) Dossen
+        - Tertian is an old title for the prince
+        - prince is impressing folk into an army
+    - Wester is the hero of Gradis and Wodford
+        - fought in the fields of Ellis (probably where family died)
+    - Vanai once a seaport at the mouth of the river Taneish, but now after erosion is a half day north of the river mouth
+        - gate protect the halls of the Common Council which is generations old
+        - flatboats still come there to and from smaller younger Newport with grain,wool,silver,timber from northern countries
+    - Birancour vs. the Severed Throne
+    - the actors troupe he hires has:
+        - a thin boy Mikel, long haired woman cary, youth sandr, elderly maiden fair opal, heros companion hornet, jack o all roles smit
+        - Kitap rol Keshmet/Master Kit -> the apostate?
+    - man in the old uarter called master will put together the caravan
+- Chapter 2: Geder Pallianko

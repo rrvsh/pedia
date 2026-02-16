@@ -18,14 +18,14 @@ All todo items _must_ be properly thought out and defined.
 
 ### Web development
 - Learn HTML/CSS basics for `rrv.sh`
-    - Text markup (lists, formatting, links, tables)
-    - Media and vector graphics
-    - User input (forms and buttons)
-    - Embedding external resources or webpages
-    - CSS box model, layout, and overflow
-    - CSS selectors and combinators
-    - Backgrounds and borders
-    - Text styling
+    - [~] Text markup (lists, formatting, links, tables)
+    - [~] Media and vector graphics
+    - [~] User input (forms and buttons)
+    - [ ] Embedding external resources or webpages
+    - [~] CSS box model, layout, and overflow
+    - [x] CSS selectors and combinators
+    - [x] Backgrounds and borders
+    - [ ] Text styling
 
 ### Financial management
 - Budget spreadsheet
@@ -35,6 +35,9 @@ All todo items _must_ be properly thought out and defined.
 ### Worldbuilding
 - Session 1 recap for aenyrathia
 - First piece of narrative writing: earliest recorded writing
+
+### Writing
+- look up tarot cards as themes for things happening: bran falling off a tower represents change
 
 ## Seconday topics
 
