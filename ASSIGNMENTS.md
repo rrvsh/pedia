@@ -4,9 +4,11 @@ This document shall act as a live repository for todo items that must be in serv
 
 All todo items _must_ be properly thought out and defined.
 
-## Curriculum as praxis
+## Curriculum
 - Plan out more granular breakdown of 0900 to 1800
-    - blocking: some days with no structure
+    - blocking: try out some days with no structure
+- Plan out more granular breakdown of week
+- Plan out more granular breakdown of month
 
 ## Primary topics
 
