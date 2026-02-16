@@ -6,11 +6,13 @@ All todo items _must_ be properly thought out and defined.
 
 ## Encyclopedia
 - Plan out more granular breakdown of 0900 to 1800
-    - blocking: try out some days with no structure
+    - blocked by: try out some days with no structure
 - Plan out more granular breakdown of week
 - Plan out more granular breakdown of month
 - Write down implicit goal of developing personal encyclopedia and body of knowledge/work
 - Edit video of drafting personal curriculum
+- Research history of my `tools`/`dotfiles`/`pantheon` project
+    - blocked by: yazi plugin to browse git repository at any given commit
 
 ## Primary topics
 
@@ -49,3 +51,6 @@ All todo items _must_ be properly thought out and defined.
 
 #### Speedcubing
 - Relearn 2-look OLL and PLL algorithms
+
+#### Sharpening my tools
+- Yazi plugin to browse a git repo at any given commit

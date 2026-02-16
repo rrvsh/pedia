@@ -31,6 +31,7 @@ It shall be separated into topics, that will include both theory, practice, and 
     - Speedcubing
     - Chess
     - Anki
+    - Sharpening my tools
 - Physical development
     - Staying in shape
     - Eating well
