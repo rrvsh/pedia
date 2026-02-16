@@ -28,6 +28,7 @@ All todo items _must_ be properly thought out and defined.
 ### Financial management
 - Budget spreadsheet
     - blocking: cig tracking
+- Track all subscriptions
 
 ### Worldbuilding
 - Session 1 recap for aenyrathia
