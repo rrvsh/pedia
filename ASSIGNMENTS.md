@@ -4,11 +4,13 @@ This document shall act as a live repository for todo items that must be in serv
 
 All todo items _must_ be properly thought out and defined.
 
-## Curriculum
+## Encyclopedia
 - Plan out more granular breakdown of 0900 to 1800
     - blocking: try out some days with no structure
 - Plan out more granular breakdown of week
 - Plan out more granular breakdown of month
+- Write down implicit goal of developing personal encyclopedia and body of knowledge/work
+- Edit video of drafting personal curriculum
 
 ## Primary topics
 
