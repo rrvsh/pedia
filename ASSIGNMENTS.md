@@ -2,6 +2,8 @@
 
 This document shall act as a live repository for todo items that must be in service of one of the topics from [[CURRICULUM]].
 
+It should be reviewed along with ASSIGNMENTS.md every Monday morning.
+
 All todo items _must_ be properly thought out and defined.
 
 ## Encyclopedia
