@@ -35,6 +35,7 @@ All todo items _must_ be properly thought out and defined.
 - Track all subscriptions
 
 ### Worldbuilding
+- Figure out creation myth/starting point
 - Session 1 recap for aenyrathia
 - First piece of narrative writing: earliest recorded writing
 
@@ -59,3 +60,5 @@ All todo items _must_ be properly thought out and defined.
 
 #### Sharpening my tools
 - Yazi plugin to browse a git repo at any given commit
+- nix-openclaw and experiment
+- get a way to natively record screen and project webcam as window for wayland
